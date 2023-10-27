@@ -1,0 +1,90 @@
+.navbar {
+    background-color: white !important;
+    border: none !important;
+    border-width: 0 !important;
+}
+
+
+.navbar-brand {
+    padding-left: 2%;
+    color: goldenrod;
+}
+
+
+
+.card {
+    border: none;
+    padding-top: 6%;
+    padding-left: 1%;
+    display: inline-block;
+}
+
+.card-header {
+    border: none;
+    background-color: white;
+    color: goldenrod
+}
+
+.card-title {
+    font-size: 30px !important;
+}
+
+.d-inline-flex {
+    font-size: 30px;
+    text-align: center;
+}
+
+.text-center {
+    color: goldenrod;
+    padding-top: 6%;
+    font-size: 20px
+}
+
+.font-weight-bold {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.font-weight-bold1 {
+    font-size: 30px;
+    color: white;
+}
+
+.text-muted1 {
+    color: white;
+}
+
+.mb-3 {
+    color: goldenrod;
+}
+
+.
+.card1 {
+    border: none;
+    padding-top: 6%;
+    padding-left: 1%;
+    display: inline-block;
+}
+
+.btn {
+    color: white
+}
+
+.img-fluid {
+    padding-top: 2%;
+    padding-left: 1%;
+}
+
+.card-text1 {
+    color: goldenrod;
+}
+
+.container1 {
+    background-color: black;
+}
+
+
+.col {
+    color: goldenrod;
+}
